@@ -13,6 +13,14 @@ I am open to **AI/Data Solution Architect** and **AI Engineer** roles.
 
 The emphasis in both systems is not a chatbot demo. It is the less glamorous work that makes an AI product defensible: temporal data models, retrieval quality, provenance, failure modes, deployment safety, operational cost, and honest limitations.
 
+Try the public, read-only Lex MCP server without a key:
+
+```bash
+claude mcp add --transport http lex https://law.soufien.lu/mcp
+```
+
+Native HTTP and stdio-only client configurations are documented on the [developer page](https://law.soufien.lu/developers).
+
 ## Start here
 
 - [Portfolio and case-study navigator](https://soufien.lu)
